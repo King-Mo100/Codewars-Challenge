@@ -9,3 +9,8 @@ def to_alternating_case(string):
             #Converts uppercase to lowercase
             result += letter.lower()
     return result
+
+
+#Another example
+def alternate_casing(stringg):
+    return stringg.swapcase()
